@@ -1,0 +1,11 @@
+C:\Users\AJAY\Documents\Visual Studio 2010\Projects\KUResultProcessingSystem\LogIn\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\AJAY\Documents\Visual Studio 2010\Projects\KUResultProcessingSystem\LogIn\obj\x86\Debug\LogIn.Home.resources
+C:\Users\AJAY\Documents\Visual Studio 2010\Projects\KUResultProcessingSystem\LogIn\obj\x86\Debug\LogIn.LogIn.resources
+C:\Users\AJAY\Documents\Visual Studio 2010\Projects\KUResultProcessingSystem\LogIn\obj\x86\Debug\LogIn.Properties.Resources.resources
+C:\Users\AJAY\Documents\Visual Studio 2010\Projects\KUResultProcessingSystem\LogIn\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\AJAY\Documents\Visual Studio 2010\Projects\KUResultProcessingSystem\LogIn\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Second Year First Term\Advance Programming Laboratory\KUResultProcessingSystem\LogIn\obj\x86\Debug\View.csprojResolveAssemblyReference.cache
+E:\Second Year First Term\Advance Programming Laboratory\KUResultProcessingSystem\LogIn\obj\x86\Debug\LogIn.Home.resources
+E:\Second Year First Term\Advance Programming Laboratory\KUResultProcessingSystem\LogIn\obj\x86\Debug\LogIn.LogIn.resources
+E:\Second Year First Term\Advance Programming Laboratory\KUResultProcessingSystem\LogIn\obj\x86\Debug\LogIn.Properties.Resources.resources
+E:\Second Year First Term\Advance Programming Laboratory\KUResultProcessingSystem\LogIn\obj\x86\Debug\View.csproj.GenerateResource.Cache
